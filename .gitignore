@@ -1,0 +1,57 @@
+# Delphi project files to ignore
+
+# Binaries and executables
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Intermediate files
+*.dcu
+*.~*
+*.dsk
+*.map
+*.cfg
+*.res
+*.identcache
+*.local
+
+# Backup files
+*.~*
+*.bak
+*.old
+
+# IDE-specific and user-specific files
+*.dproj.local
+*.groupproj.local
+*.groupproj
+*.tvsconfig
+*.ide
+*.otares
+
+# Debugger and symbol files
+*.tds
+*.pdb
+
+# Compiled resource files
+*.rc
+*.rsm
+
+# Generated database files
+*.db
+
+# Other temporary files
+*.log
+*.tmp
+
+# Node.js modules (if you're combining with a Node.js backend)
+node_modules/
+
+# Ignore Windows specific system files
+Thumbs.db
+Desktop.ini
+
+# Ignore Mac specific system files
+.DS_Store
